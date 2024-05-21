@@ -1,0 +1,11 @@
+.bgfooter{
+    background-image: url("../../assets/Vector.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100% !important;
+    height: 238px !important;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center
+}

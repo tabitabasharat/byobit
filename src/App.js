@@ -1,23 +1,24 @@
-import logo from './logo.svg';
 import './App.css';
+import Footer from './components/Footer/Footer';
+import Lunchcalender from './components/Lunchcalender/Lunchcalender';
+import Header from './components/header/Header';
+import Hero from './components/Hero/Hero';
+import Newsandupdate from './components/Newsandupdate/Newsandupdate';
+import Newsprops from './components/Newsprops/Newsprops';
+import Commets from './components/Commets/Commets';
+import Upcomming from './components/Upcomming/Upcomming';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className='text-warning'>
+<Header/>
+<Hero/>
+<Upcomming/>
+{/* <Commets/> */}
+{/* <Lunchcalender/> */}
+{/* <Newsandupdate/> */}
+{/* <Newsprops/> */}
+{/* <Footer/> */}
     </div>
   );
 }

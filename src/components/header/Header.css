@@ -1,0 +1,51 @@
+.create{
+    background-color: #199485 !important;
+    border: #199485 !important;
+border-radius: 50px !important;
+font-size: 16px !important;
+font-weight: 400;
+width: 114px !important;
+height: 50px !important;
+}
+.likz{
+    font-size: 16px !important;
+    color: white !important;
+}
+.ticket{
+    width: 192px !important;
+height: 50px !important;
+}
+.bgcoll{
+    background-color: #0B0931 !important;
+}
+.bgcol{
+    padding-left: 150px !important;
+    padding-top: 34px !important;
+    padding-right: 150px !important;
+    padding-bottom: 34px !important;
+}
+.bgdes{
+    background-color: #595873 !important;
+    width: 50px !important;
+    height: 50px !important;
+    border-radius: 100% !important;
+    padding: 17px !important;
+}
+@media (max-width:1287px) {
+    .bgcol{
+        background-color: #0B0931 !important;
+        padding-left: 70px !important;
+        padding-top: 34px !important;
+        padding-right: 70px !important;
+        padding-bottom: 34px !important;
+    }
+}
+@media (max-width:596px) {
+    .bgcol{
+        background-color: #0B0931 !important;
+        padding-left: 20px !important;
+        padding-top: 34px !important;
+        padding-right: 20px !important;
+        padding-bottom: 34px !important;
+    }
+}

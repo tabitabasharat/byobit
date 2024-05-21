@@ -1,0 +1,26 @@
+.bgcolr{
+    background-color:#0B0931;
+    padding-bottom: 51px !important;
+    padding-top: 131px !important;
+}
+.ped{
+    padding-left: 150px !important;
+    padding-top: 34px !important;
+    padding-right: 150px !important;
+    padding-bottom: 34px !important;
+}
+.RL{
+    width: 110px;
+    height: 50px;
+}
+.crdimgwid1{
+    width: 100px !important;
+    height: 256px !important;
+}
+.crdimgwid{
+    width: 448px !important;
+    height: 256px !important;
+}
+.addjustment{
+    padding-bottom: 12% !important;
+}
